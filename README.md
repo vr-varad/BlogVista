@@ -44,5 +44,5 @@ npm install
 # Configure environment variables in .env file (refer to .env.example)
 npm start
 ```
-The backend server will be running at http://localhost:3000.
+The frontend server will be running at http://localhost:4000.
 
